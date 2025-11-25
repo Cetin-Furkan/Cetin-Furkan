@@ -1,6 +1,6 @@
 # Cetin Furkan Cakin
 
-## Systems Engineer & AI Innovator
+## Systems Engineer & AI Researcher
 
 A results-oriented systems engineer and AI researcher specializing in ultra-low-latency architectures, kernel-level optimizations, and next-generation machine intelligence. I architect production-grade solutions for high-frequency trading (HFT) infrastructures, custom AI accelerators, and performant data pipelines. My engineering philosophy centers on bridging theoretical rigor—rooted in measure-theoretic probability, Riemannian geometry, and bilevel optimization—with hands-on implementations in C23, leveraging Intel oneAPI for heterogeneous computing and math kernels like Intel MKL for tensor operations.
 
