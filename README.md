@@ -35,7 +35,7 @@ Aspiring to principal research roles at frontiers like xAI or Neuralink, I prior
 ## Reach Out
 
 - **GitHub**: Cetin-Furkan  
-- **LinkedIn**: https://github.com/Cetin-Furkan
+- **LinkedIn**: https://www.linkedin.com/in/cetin-furkan-cakin/
 - **Email**: c.furkan.cakin@gmail.com  
 
 Open to dissecting SPIR-V pipelines or debating SSM stability—ping me. 🔬
